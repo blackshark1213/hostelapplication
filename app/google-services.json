@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545916297502",
+    "project_id": "myremoteapp-aa3e3",
+    "storage_bucket": "myremoteapp-aa3e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545916297502:android:b05b7b435099d3027de90f",
+        "android_client_info": {
+          "package_name": "com.pg.nityagirlshostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Q0l9AESdiz3u3hANpIZZ3XWW6XIFC40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
